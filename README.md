@@ -28,7 +28,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvcoolguy/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25C2%25A7.2B%25F0%259F%2598%2582-%2300E676.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+2348152521114)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25C2%25A7.2B%25F0%259F%2598%2582-%2300E676.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=2348152521114)
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itxwasi)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
