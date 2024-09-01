@@ -15,5 +15,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: https://neilpatel.com/blog/feed/
+          feed_list: "https://dev.to/feed/gautamkrishnar"
 
