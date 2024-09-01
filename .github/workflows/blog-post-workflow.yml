@@ -1,17 +1,18 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Allows manual triggering
+permissions:
+  contents: write # To write the generated contents to the README
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "https://dev.to/feed/itszed0.com/rss"
